@@ -1,0 +1,6 @@
+@mixin sectionText($fs, $lh, $ls, $color-title) {
+    font-size: $fs;
+    line-height: $lh;
+    letter-spacing: $ls;
+    color: $color-title;
+}
